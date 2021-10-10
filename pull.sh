@@ -141,3 +141,7 @@ cd ..
 cd magic.lambda.validators
 git pull 
 cd ..
+
+cd polterguy.github.io
+git pull 
+cd ..

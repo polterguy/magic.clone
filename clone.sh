@@ -39,6 +39,7 @@ git clone https://github.com/polterguy/magic.lambda.slots.git
 git clone https://github.com/polterguy/magic.lambda.strings.git
 git clone https://github.com/polterguy/magic.lambda.validators.git
 git clone https://github.com/polterguy/magic.git
+git clone https://github.com/polterguy/polterguy.github.io.git
 
 cd ..
 cp dev_backend.csproj src/magic/backend/dev_backend.csproj
