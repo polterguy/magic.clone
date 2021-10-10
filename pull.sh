@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git pull
+
 cd src
 
 cd magic.lambda
