@@ -6,4 +6,4 @@ to debug all plugins in Magic.
 
 Clone this repository locally, then run the _"clone.sh"_ file, and wait until it's done - At
 which point you will find everything needed to run and debug Magic locally within your _"src/"_
-folder.
+folder. Whenever you need to pull the repositories again simply execute _"pull.sh"_.
