@@ -24,10 +24,6 @@ cd magic.http
 git pull 
 cd ..
 
-cd magic.io
-git pull 
-cd ..
-
 cd magic.library
 git pull 
 cd ..
