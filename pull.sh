@@ -12,10 +12,6 @@ cd magic.endpoint
 git pull 
 cd ..
 
-cd magic.crypto
-git pull 
-cd ..
-
 cd magic.lambda.system
 git pull 
 cd ..

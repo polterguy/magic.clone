@@ -5,7 +5,6 @@ cd src
 
 git clone https://github.com/polterguy/magic.lambda.git
 git clone https://github.com/polterguy/magic.endpoint.git
-git clone https://github.com/polterguy/magic.crypto.git
 git clone https://github.com/polterguy/magic.lambda.system.git
 git clone https://github.com/polterguy/magic.http.git
 git clone https://github.com/polterguy/magic.library.git
