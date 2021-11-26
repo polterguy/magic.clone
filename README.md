@@ -47,6 +47,8 @@ Magic locally on your development machine.
 
 ## Build status of all projects
 
+Below you can find the build status of all projects in their respective master branches.
+
 * ![Build status](https://github.com/polterguy/magic/actions/workflows/codeql-analysis.yml/badge.svg) - [Magic](https://github.com/polterguy/magic)
 * ![Build status](https://github.com/polterguy/magic.data.common/actions/workflows/build.yaml/badge.svg) - [magic.data.common](https://github.com/polterguy/magic.data.common)
 * ![Build status](https://github.com/polterguy/magic.endpoint/actions/workflows/build.yaml/badge.svg) - [magic.endpoint](https://github.com/polterguy/magic.endpoint)
@@ -79,6 +81,11 @@ Magic locally on your development machine.
 * ![Build status](https://github.com/polterguy/magic.lambda.validators/actions/workflows/build.yaml/badge.svg) - [magic.lambda.validators](https://github.com/polterguy/magic.lambda.validators)
 * ![Build status](https://github.com/polterguy/magic.library/actions/workflows/build.yaml/badge.svg) - [magic.library](https://github.com/polterguy/magic.library)
 * ![Build status](https://github.com/polterguy/magic.signals/actions/workflows/build.yaml/badge.svg) - [magic.signals](https://github.com/polterguy/magic.signals)
+
+## Summing up
+
+This project helps you clone Magic, and all of its satellite projects, making it easier for you to debug and develop
+Magic locally.
 
 * [Magic Documentation](https://polterguy.github.io/)
 
