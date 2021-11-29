@@ -81,6 +81,7 @@ Below you can find the build status of all projects in their respective master b
 * ![Build status](https://github.com/polterguy/magic.lambda.validators/actions/workflows/build.yaml/badge.svg) - [magic.lambda.validators](https://github.com/polterguy/magic.lambda.validators)
 * ![Build status](https://github.com/polterguy/magic.library/actions/workflows/build.yaml/badge.svg) - [magic.library](https://github.com/polterguy/magic.library)
 * ![Build status](https://github.com/polterguy/magic.signals/actions/workflows/build.yaml/badge.svg) - [magic.signals](https://github.com/polterguy/magic.signals)
+* ![Build status](https://github.com/polterguy/magic.node/actions/workflows/build.yaml/badge.svg) - [magic.node](https://github.com/polterguy/magic.node)
 
 ## Summing up
 
