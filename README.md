@@ -47,7 +47,8 @@ the `.vscode/launch.json` and `.vscode/tasks.json` files.
 
 ## Build status of all projects
 
-Below you can find the build status of all projects in their respective master branches.
+Below you can find the build status of all projects in their respective master branches, and the links to the
+GitHub project pages of all projects.
 
 * ![Build status](https://github.com/polterguy/magic/actions/workflows/codeql-analysis.yml/badge.svg) - [Magic](https://github.com/polterguy/magic)
 * ![Build status](https://github.com/polterguy/magic.data.common/actions/workflows/build.yaml/badge.svg) - [magic.data.common](https://github.com/polterguy/magic.data.common)
