@@ -41,8 +41,9 @@ ng serve
 When `ng serve` and `dotnet run` is done, you can visit [localhost:4200](https://localhost:4200) in your
 browser, and you should be set.
 
-To debug, click F5 in VS Code. You can now set breakpoints, and/or debug Magic locally on your development
-machine.
+To debug, make sure you've got the OmniSharp C# debugger plugin installed in VSCode, click F5 while in VS Code, 
+and you can set breakpoints, and/or debug Magic locally on your development machine. This is configured through
+the `.vscode/launch.json` and `.vscode/tasks.json` files.
 
 ## Build status of all projects
 
