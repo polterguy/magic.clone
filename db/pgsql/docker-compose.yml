@@ -1,6 +1,10 @@
 
 # Docker file for SQL Server.
 
+# Connection string to use can be found below
+
+# User ID=postgres;Password=ThisIsNotAGoodPassword;Host=localhost;Database={database}
+
 version: "3.3"
 
 services:

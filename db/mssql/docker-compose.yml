@@ -1,6 +1,10 @@
 
 # Docker file for SQL Server.
 
+# Connection string to use can be found below.
+
+# Server=localhost;Initial Catalog={database};User=sa;Password=Your_password123;
+
 version: "3.3"
 
 services:
