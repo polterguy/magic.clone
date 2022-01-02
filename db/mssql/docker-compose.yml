@@ -1,0 +1,14 @@
+
+# Docker file for SQL Server.
+
+version: "3.3"
+
+services:
+
+  db:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+        SA_PASSWORD: ThisIsNotAGoodPassword
+        ACCEPT_EULA: Y
+    ports:
+    - "54321:1433"

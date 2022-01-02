@@ -1,0 +1,14 @@
+
+# Docker file for MySQL.
+
+version: "3.3"
+
+services:
+
+  db:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ThisIsNotAGoodPassword
+    ports:
+    - "54321:3306"
