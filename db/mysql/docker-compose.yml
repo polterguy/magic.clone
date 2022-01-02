@@ -1,8 +1,6 @@
 
 # Docker file for MySQL.
-
 # Connection string to use can be found below
-
 # Server=localhost;Database={database};Uid=root;Pwd=ThisIsNotAGoodPassword;SslMode=Preferred;Old Guids=true;
 
 version: "3.3"
