@@ -1,23 +1,29 @@
 
 # Cloning Magic locally
 
-This recipe helps you clone Magic locally, and assumes you've got VS Code, NodeJS, Angular, and the .Net SDK
+This recipe helps you clone Magic locally, and assumes you've got VS Code, NodeJS, Angular CLI, and the .Net SDK
 version 6 or higher. You can also use Visual Studio instead of VS Code if you're on Windows, at which point
 you only need to open the _"magic.sln"_ file. When you've made sure you've got all of these parts, clone
 this repository locally using the following.
 
-```
+```bash
 git clone https://github.com/polterguy/magic.clone.git
 ```
 
-Then run the _"clone.sh"_ file, and wait until it's done - At which point you will find everything
-needed to run and debug Magic locally within your _"src/"_ folder. Whenever you need to pull the
-repositories again simply execute _"pull.sh"_. To debug, and/or run Magic, type the following in a terminal.
+Then run the _"clone.sh"_ file, and wait until it's done.
+
+```bash
+./clone.sh
+```
+
+You now have everything needed to run and debug Magic locally within your _"src/"_ folder. Whenever you need to
+pull the repositories again simply execute _"pull.sh"_ again. To debug, and/or run Magic, type the following
+in a terminal.
 
 ```bash
 cd src
 
-// This requires having VS Code locally installed and in your path
+# This requires having VS Code locally installed and in your path
 code ./
 ```
 
@@ -53,7 +59,7 @@ to locally start a database instance using Docker. These files can be found with
 that contains one folder for each database type, allowing you to test Magic with any of these databases
 locally. To start for instance SQL Server, execute the following from a terminal.
 
-```
+```bash
 cd db
 cd mssql
 docker-compose up
