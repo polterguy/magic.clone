@@ -16,6 +16,10 @@ cd magic.lambda.system
 git pull 
 cd ..
 
+cd magic.lambda.threading
+git pull 
+cd ..
+
 cd magic.http
 git pull 
 cd ..
