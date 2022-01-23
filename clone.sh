@@ -4,6 +4,8 @@ mkdir ./src
 cd src
 
 git clone https://github.com/polterguy/magic.lambda.git
+git clone https://github.com/polterguy/magic.lambda.cql.git
+git clone https://github.com/polterguy/magic.data.cql.git
 git clone https://github.com/polterguy/magic.endpoint.git
 git clone https://github.com/polterguy/magic.lambda.system.git
 git clone https://github.com/polterguy/magic.http.git

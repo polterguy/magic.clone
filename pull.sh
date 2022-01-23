@@ -40,6 +40,14 @@ cd magic.data.common
 git pull 
 cd ..
 
+cd magic.lambda.cql
+git pull 
+cd ..
+
+cd magic.data.cql
+git pull 
+cd ..
+
 cd magic.lambda.auth
 git pull 
 cd ..
