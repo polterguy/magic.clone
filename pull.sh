@@ -4,6 +4,10 @@ git pull
 
 cd src
 
+cd magic
+git pull 
+cd ..
+
 cd magic.lambda
 git pull 
 cd ..
