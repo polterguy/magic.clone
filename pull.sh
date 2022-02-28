@@ -40,6 +40,10 @@ cd magic.lambda.odbc
 git pull 
 cd ..
 
+cd magic.lambda.pgsql
+git pull 
+cd ..
+
 cd magic.signals
 git pull 
 cd ..
