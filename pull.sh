@@ -36,6 +36,10 @@ cd magic.node
 git pull 
 cd ..
 
+cd magic.lambda.odbc
+git pull 
+cd ..
+
 cd magic.signals
 git pull 
 cd ..
