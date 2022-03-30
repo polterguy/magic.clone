@@ -36,6 +36,7 @@ git clone https://github.com/polterguy/magic.lambda.mssql.git
 git clone https://github.com/polterguy/magic.lambda.mysql.git
 git clone https://github.com/polterguy/magic.lambda.odbc.git
 git clone https://github.com/polterguy/magic.lambda.pgsql.git
+git clone https://github.com/polterguy/magic.lambda.sqlite.git
 git clone https://github.com/polterguy/magic.lambda.scheduler.git
 git clone https://github.com/polterguy/magic.lambda.slots.git
 git clone https://github.com/polterguy/magic.lambda.strings.git

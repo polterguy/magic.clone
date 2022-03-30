@@ -44,6 +44,10 @@ cd magic.lambda.pgsql
 git pull 
 cd ..
 
+cd magic.lambda.sqlite
+git pull 
+cd ..
+
 cd magic.signals
 git pull 
 cd ..
