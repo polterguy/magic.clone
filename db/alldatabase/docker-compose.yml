@@ -1,0 +1,40 @@
+# Docker file for MySQL.
+# Connection string to use can be found below
+# Server=localhost;Database={database};Uid=root;Pwd=ThisIsNotAGoodPassword;SslMode=Preferred;Old Guids=true;Port=54321;
+
+version: "3.3"
+
+services:
+
+  mysql:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ThisIsNotAGoodPassword
+    ports:
+      - "3306"
+    volumes:
+      - $HOME/
+
+  # Docker file for SQL Server.
+  # Connection string to use can be found below.
+  # Server=localhost;Initial Catalog={database};User=sa;Password=Your_password123;
+  mssql:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      SA_PASSWORD: Your_password123
+      ACCEPT_EULA: Y
+    ports:
+      - "1433:1433"
+
+  # Docker file for PostgresSQL.
+  # Connection string to use can be found below
+  # User ID=postgres;Password=ThisIsNotAGoodPassword;Host=localhost;Database={database}; Port=54321;
+
+  pgsql:
+    image: postgres:9.3
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=ThisIsNotAGoodPassword
+    ports:
+      - "5432:5432"
