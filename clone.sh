@@ -3,6 +3,7 @@
 mkdir ./src
 cd src
 
+git clone https://github.com/polterguy/Aista.Data.Sqlite.git
 git clone https://github.com/polterguy/magic.lambda.git
 git clone https://github.com/polterguy/magic.lambda.cql.git
 git clone https://github.com/polterguy/magic.data.cql.git

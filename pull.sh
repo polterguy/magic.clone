@@ -12,6 +12,10 @@ cd magic.lambda
 git pull 
 cd ..
 
+cd Aista.Data.Sqlite
+git pull 
+cd ..
+
 cd magic.endpoint
 git pull 
 cd ..
