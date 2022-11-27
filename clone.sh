@@ -26,6 +26,7 @@ git clone https://github.com/polterguy/magic.lambda.hyperlambda.git
 git clone https://github.com/polterguy/magic.lambda.io.git
 git clone https://github.com/polterguy/magic.lambda.json.git
 git clone https://github.com/polterguy/magic.lambda.html.git
+git clone https://github.com/polterguy/magic.lambda.xml.git
 git clone https://github.com/polterguy/magic.lambda.csv.git
 git clone https://github.com/polterguy/magic.lambda.logging.git
 git clone https://github.com/polterguy/magic.lambda.image.git

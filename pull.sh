@@ -116,6 +116,10 @@ cd magic.lambda.html
 git pull 
 cd ..
 
+cd magic.lambda.xml
+git pull 
+cd ..
+
 cd magic.lambda.csv
 git pull 
 cd ..
