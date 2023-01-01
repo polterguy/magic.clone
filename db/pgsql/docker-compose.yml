@@ -1,5 +1,5 @@
 
-# Docker file for SQL Server.
+# Docker file for PostgreSQL.
 # Connection string to use can be found below
 # User ID=postgres;Password=ThisIsNotAGoodPassword;Host=localhost;Database={database}; Port=54321;
 
