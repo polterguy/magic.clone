@@ -11,6 +11,6 @@ services:
     image: postgres:9.3
     restart: always
     environment:
-      - POSTGRES_PASSWORD=ThisIsNotAGoodPassword
+    - POSTGRES_PASSWORD=ThisIsNotAGoodPassword
     ports:
     - "54321:5432"
