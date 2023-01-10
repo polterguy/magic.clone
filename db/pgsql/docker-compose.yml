@@ -1,7 +1,7 @@
 
 # Docker file for PostgreSQL.
 # Connection string to use can be found below
-# User ID=postgres;Password=ThisIsNotAGoodPassword;Host=localhost;Database={database}; Port=54321;
+# User ID=postgres;Password=ThisIsNotAGoodPassword;Host=localhost;Database={database}; Port=54320;
 
 version: "3.3"
 
@@ -13,4 +13,4 @@ services:
     environment:
     - POSTGRES_PASSWORD=ThisIsNotAGoodPassword
     ports:
-    - "54321:5432"
+    - "54320:5432"
