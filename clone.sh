@@ -16,6 +16,7 @@ git clone https://github.com/polterguy/magic.signals.git
 git clone https://github.com/polterguy/magic.data.common.git
 git clone https://github.com/polterguy/magic.lambda.auth.git
 git clone https://github.com/polterguy/magic.lambda.sockets.git
+git clone https://github.com/polterguy/magic.lambda.openai.git
 git clone https://github.com/polterguy/magic.lambda.ad-auth.git
 git clone https://github.com/polterguy/magic.lambda.guid.git
 git clone https://github.com/polterguy/magic.lambda.config.git

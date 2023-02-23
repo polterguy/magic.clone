@@ -24,6 +24,10 @@ cd magic.lambda.system
 git pull 
 cd ..
 
+cd magic.lambda.openai
+git pull 
+cd ..
+
 cd magic.lambda.threading
 git pull 
 cd ..
