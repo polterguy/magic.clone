@@ -1,4 +1,3 @@
-
 # magic.clone - How to clone magic locally
 
 The magic.clone project helps you clone Magic locally, and assumes you've got VS Code, NodeJS, Angular CLI,
@@ -73,4 +72,4 @@ The connection strings for each database type can be found below.
 
 ## Copyright and maintenance
 
-The projects is copyright of Aista, Ltd 2021 - 2023, and professionally maintained by [AINIRO your friendly ChatGPT website chatbot vendor](https://ainiro.io).
+The projects is copyright Thomas Hansen 2023 - 2024, and professionally maintained by [AINIRO.IO](https://ainiro.io).
